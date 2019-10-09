@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "167391667216",
+    "firebase_url": "https://bintouch-c21fe.firebaseio.com",
+    "project_id": "bintouch-c21fe",
+    "storage_bucket": "bintouch-c21fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167391667216:android:a06350f6ea4924f7",
+        "android_client_info": {
+          "package_name": "global.imas.bintouch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167391667216-a5u6tjnfmhrb9m1r5meu8esthuct3gkc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "global.imas.bintouch",
+            "certificate_hash": "78638e7cc8201434b82bd1971e52a0657f06e923"
+          }
+        },
+        {
+          "client_id": "167391667216-qnjqnmfikuvvf1hhemv2m3c6sa6s5lhi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "global.imas.bintouch",
+            "certificate_hash": "501b3a85d57f6e6d7c74a3e1c80940fef4462320"
+          }
+        },
+        {
+          "client_id": "167391667216-e9rum22m3ha4bgkhhb0p83tq1menn21h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNw9K1_VaoZnCs6vn8ttnU39boBG8GsXM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167391667216-e9rum22m3ha4bgkhhb0p83tq1menn21h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

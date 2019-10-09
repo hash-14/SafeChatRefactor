@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/create_a_group"
+        android:title="Create a group"
+        android:visible="false" />
+    <item
+        android:id="@+id/my_profiles"
+        android:title="My profiles"
+        android:visible="false" />
+
+
+</menu>

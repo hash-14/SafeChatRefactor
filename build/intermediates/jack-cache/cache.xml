@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\bachirhabib\.gradle\caches\modules-2\files-2.1\io.socket\engine.io-client\1.0.0\45fc6115750f06a9cd5dd71632cb7fc052cd66de\engine.io-client-1.0.0.jar"
+        revision="26.0.0"
+        sha1="45fc6115750f06a9cd5dd71632cb7fc052cd66de">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\engine.io-client-1.0.0-003a586c81bbb77446385195ede7e92f024ebade.jar" />
+    </item>
+    <item
+        jar="C:\Users\bachirhabib\.android\build-cache\61871c91bd266c458f39b5ccf190be2a36f6a5ae\output\jars\classes.jar"
+        revision="26.0.0"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\classes-ddcca319dea69b0b06d2aac60643eefecdb259fd.jar" />
+    </item>
+    <item
+        jar="C:\Users\bachirhabib\.android\build-cache\6a893bdfd8db7e990cb1236d4ae6cdf8a144a7f4\output\jars\classes.jar"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\classes-7ca7187b74eb91338a656719e8183fa2d9e8f2eb.jar" />
+    </item>
+    <item
+        jar="C:\Users\bachirhabib\.android\build-cache\8cef8780bf675adf3867f48393c9bd380cc5ae1f\output\jars\classes.jar"
+        revision="26.0.0"
+        sha1="fe3916317a699975bcce0cba2d13fd2d8cf88922">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\classes-99893bb00a4da06b7340a8891e355d0471c542f1.jar" />
+    </item>
+    <item
+        jar="C:\Users\bachirhabib\Desktop\BinTouch\app\libs\YouTubeAndroidPlayerApi.jar"
+        revision="26.0.0"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\YouTubeAndroidPlayerApi-35bafb72ac1eb29584576631e73ca87b72623127.jar" />
+    </item>
+    <item
+        jar="C:\Users\bachirhabib\.android\build-cache\bf8a466e9aa50945ae5b80f62d5d24a1c3436502\output\jars\classes.jar"
+        revision="26.0.0"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\classes-f3afc2b92ae29daa5c7ab7f7c3a5cfbe3c3ffa00.jar" />
+    </item>
+    <item
+        jar="C:\Users\bachirhabib\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        revision="26.0.0"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\okio-1.13.0-ec15595fa930a511ff72fd5e8060608b71c407f1.jar" />
+    </item>
+    <item
+        jar="C:\Users\bachirhabib\.android\build-cache\076b116b14883294eefb74efd335891910c1dfdd\output\jars\classes.jar"
+        revision="26.0.0"
+        sha1="caa03787689212c10939f308a55a8dc8a3333ed2">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\classes-ae7de001f4939b327e254b6d8040daedea5f4a52.jar" />
+    </item>
+    <item
+        jar="C:\Users\bachirhabib\Desktop\BinTouch\app\libs\additionnal.jar"
+        revision="26.0.0"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\additionnal-91094595c43f0b18372fdb48b954096964de9286.jar" />
+    </item>
+    <item
+        jar="C:\Users\bachirhabib\.android\build-cache\1cf2acd85310ff5be0748f80269b0accf9cb719a\output\jars\classes.jar"
+        revision="26.0.0"
+        sha1="618f75fe11febf263e3234c7da7dc892232a5608">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\classes-9bc9ed009134c3e6efe2dca2834cfd4cb240eaa7.jar" />
+    </item>
+    <item
+        jar="C:\Users\bachirhabib\.android\build-cache\ff4ecc667f9ccd21351e6dfa8c09fd54551bbb83\output\jars\classes.jar"
+        revision="26.0.0"
+        sha1="3ac08c35419ab7cf9146969de471768dbe502f0f">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\classes-928e95cee58adad307464398eab11bcda9532097.jar" />
+    </item>
+    <item
+        jar="C:\Users\bachirhabib\.android\build-cache\f1c234ca6c16851dee62176ec34dd37b2dd17f91\output\jars\classes.jar"
+        revision="26.0.0"
+        sha1="890be6e1e56a883c9b407a11e067a61886dec123">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\classes-689647069034c8b640af7cf2c0d73a2178b412e4.jar" />
+    </item>
+    <item
+        jar="C:\Users\bachirhabib\.android\build-cache\4e743cb7a91d4dc9ccf2c83d6176322d76967034\output\jars\classes.jar"
+        revision="26.0.0"
+        sha1="14de115842f6f1de85f7702be6b4e2bbf9b56c65">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\classes-eb3b9ea772815352b3b74f194bc7b28bb32897cd.jar" />
+    </item>
+    <item
+        jar="C:\Users\bachirhabib\.android\build-cache\d1af05254d6252eee8f9a0efe8b90403da188df5\output\jars\classes.jar"
+        revision="26.0.0"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\classes-f5191fb84e91083f7c369fd9eea18087cdcee9b5.jar" />
+    </item>
+    <item
+        jar="C:\Users\bachirhabib\.android\build-cache\00a502f29883001a8eac014c355b9af708898a4c\output\jars\classes.jar"
+        revision="26.0.0"
+        sha1="04cd0cacbedcb338f64665b88bad64d145325fbd">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\classes-ddb29c4086533e235daf5e2db51fdcd8af6423b5.jar" />
+    </item>
+    <item
+        jar="C:\Users\bachirhabib\.gradle\caches\modules-2\files-2.1\io.reactivex.rxjava2\rxjava\2.1.0\2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1\rxjava-2.1.0.jar"
+        revision="26.0.0"
+        sha1="2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\rxjava-2.1.0-bc9ce480811165e623d316b3dae0b76d46fca679.jar" />
+    </item>
+    <item
+        jar="C:\Users\bachirhabib\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\constraint-layout-solver-1.0.2-17b4212983543322629ba85c2e3a79c9b61f9391.jar" />
+    </item>
+    <item
+        jar="C:\Users\bachirhabib\.android\build-cache\3ad8114152380b59115c30f87be725c354eb908a\output\jars\classes.jar"
+        revision="26.0.0"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\classes-efe3f1f8539ae0255f6191fb638b70ae07aa62a4.jar" />
+    </item>
+    <item
+        jar="C:\Users\bachirhabib\Desktop\BinTouch\app\libs\autobanh.jar"
+        revision="26.0.0"
+        sha1="9b51fb848b29a3e41b8474ce2d4360f4d7d144c5">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\autobanh-bc414cca038f506496826b000d86aed3fce3fd18.jar" />
+    </item>
+    <item
+        jar="C:\Users\bachirhabib\.android\build-cache\3af954cd70cfc3c7cfb82bf43512d53854fe066c\output\jars\classes.jar"
+        revision="26.0.0"
+        sha1="7c24e2e9773fb498e390ce973db382c3ddcf748e">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\classes-2a480b32100978537bfd85ec0a1ec1879a181c9e.jar" />
+    </item>
+    <item
+        jar="C:\Users\bachirhabib\Desktop\BinTouch\app\libs\base_java.jar"
+        revision="26.0.0"
+        sha1="a07ea55a0c903b722b31d05feb833fd88c4c37d0">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\base_java-cd04bb5c487cba1f44b8ed8f864940db769db1a0.jar" />
+    </item>
+    <item
+        jar="C:\Users\bachirhabib\.android\build-cache\0e908606f0065030199a34a8e15bb9e0f6b89cc3\output\jars\classes.jar"
+        revision="26.0.0"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\classes-dd68ae5999402c7185a7eab73a86a0d8a43abf9f.jar" />
+    </item>
+    <item
+        jar="C:\Users\bachirhabib\.android\build-cache\716c3de2ff8d1c8f89d62d3080b63679ab00a129\output\jars\classes.jar"
+        revision="26.0.0"
+        sha1="4b685077cdb08cf7ae8b61afd1fe910e47d91b9a">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\classes-2bb214f564829ed4437fe40526f4508d5c033833.jar" />
+    </item>
+    <item
+        jar="C:\Users\bachirhabib\Desktop\BinTouch\app\libs\gradle-wrapper.jar"
+        revision="26.0.0"
+        sha1="92d0b85fb15ec7ca7aa72eaab4d5f7faac9297d1">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\gradle-wrapper-49e1958f46226a0af16b021ee6b6f96fd9e54c46.jar" />
+    </item>
+    <item
+        jar="C:\Users\bachirhabib\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\27.0.2\b9ef4342c934a1a8b107506273dc8061662a322\support-annotations-27.0.2.jar"
+        revision="26.0.0"
+        sha1="0b9ef4342c934a1a8b107506273dc8061662a322">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\support-annotations-27.0.2-a95b944630f365fce7e4fa0730e2eab72248880b.jar" />
+    </item>
+    <item
+        jar="C:\Users\bachirhabib\.android\build-cache\6522fc3f07358f7ef5a5d9d900f2b9d68b674133\output\jars\classes.jar"
+        revision="26.0.0"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\classes-6d219802e4969189f103c052653720746cacda9f.jar" />
+    </item>
+    <item
+        jar="C:\Users\bachirhabib\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.3\7d7f60c4783872861222166f6164215f8951c7b1\common-1.0.3.jar"
+        revision="26.0.0"
+        sha1="7d7f60c4783872861222166f6164215f8951c7b1">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\common-1.0.3-d7f66fef68dd1eebd3f55552f8997b1a8ea1bc53.jar" />
+    </item>
+    <item
+        jar="C:\Users\bachirhabib\.android\build-cache\f88db6cea902a55cea81de77b3f03862bfaf1192\output\jars\classes.jar"
+        revision="26.0.0"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\classes-c97fea0203bba3cb99f35eb542914d15359ad5d7.jar" />
+    </item>
+    <item
+        jar="C:\Users\bachirhabib\.android\build-cache\6fbafadd808026711acef9ecc8cc910e97db6d53\output\jars\classes.jar"
+        revision="26.0.0"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\classes-2aef8260dac6b1251ab59d0fc57f82124df55f7e.jar" />
+    </item>
+    <item
+        jar="C:\Users\bachirhabib\Desktop\BinTouch\app\libs\anjlab-iabv3-1.0.44.jar"
+        revision="26.0.0"
+        sha1="96eef85623f94637a9d7859ed4ad1aebc85b6054">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\anjlab-iabv3-1.0.44-483d23f3cec112e4e9cc29d8ed22aded97138335.jar" />
+    </item>
+    <item
+        jar="C:\Users\bachirhabib\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        revision="26.0.0"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\gson-2.8.0-0b2029d53120929a757d3530d55b63d655d21dd8.jar" />
+    </item>
+    <item
+        jar="C:\Users\bachirhabib\.android\build-cache\d128f63b07a9d54b9646a7a7ef225010290d63ad\output\jars\classes.jar"
+        revision="26.0.0"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\classes-394088dfbb54ddc7645bebc283322cd4ea359d37.jar" />
+    </item>
+    <item
+        jar="C:\Users\bachirhabib\.android\build-cache\15dbe2af3ea92f8fea6560d516a724a3aecde7ba\output\jars\classes.jar"
+        revision="26.0.0"
+        sha1="b432e82447a3af781e927b9ba0bbb9fe2a496d4a">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\classes-5499c63f525d31a7478dda16eb6dd4a7478b9545.jar" />
+    </item>
+    <item
+        jar="C:\Users\bachirhabib\.android\build-cache\5be96dd105d757bb596d70ab68a82d66d9ac6ebb\output\jars\classes.jar"
+        revision="26.0.0"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\classes-436b04cf573ed45e5784c161d3ba25884b0b8c56.jar" />
+    </item>
+    <item
+        jar="C:\Users\bachirhabib\.android\build-cache\85ec4bba84c1b01f6fe922e86c00125ef6d547c5\output\jars\classes.jar"
+        revision="26.0.0"
+        sha1="1b12397bc9f342b29d9e9108978828f99a6da579">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\classes-b1f25ecab7413601e8364ef3fdbfbe2093f4fe2e.jar" />
+    </item>
+    <item
+        jar="C:\Users\bachirhabib\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.1\4d060ca3190df0eda4dc13415532a12e15ca5f11\okhttp-3.8.1.jar"
+        revision="26.0.0"
+        sha1="4d060ca3190df0eda4dc13415532a12e15ca5f11">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\okhttp-3.8.1-f60cf2e6df41cebb17eb7ff036bf7e9ed77e2bad.jar" />
+    </item>
+    <item
+        jar="C:\Users\bachirhabib\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        revision="26.0.0"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\common-1.0.0-43a0ad3ebad57ee1995bdc26c43d8035dab5a480.jar" />
+    </item>
+    <item
+        jar="C:\Users\bachirhabib\.android\build-cache\6fe7a93016308a2620a30b2e8453b41ad894831b\output\jars\classes.jar"
+        revision="26.0.0"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\classes-0af7417069d52d3500c147455d3692e3ab1b5a0a.jar" />
+    </item>
+    <item
+        jar="C:\Users\bachirhabib\Desktop\BinTouch\app\libs\vidyoclient.jar"
+        revision="26.0.0"
+        sha1="c6dcddf0504684c548bb95c8371137efa2104aa2">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\vidyoclient-20ffccc6b748d09f8cde3e73d6e0b055e7cca041.jar" />
+    </item>
+    <item
+        jar="C:\Users\bachirhabib\.gradle\caches\modules-2\files-2.1\io.socket\socket.io-client\1.0.0\28dde99672ed62a85e85a7df096c6bec698785b4\socket.io-client-1.0.0.jar"
+        revision="26.0.0"
+        sha1="28dde99672ed62a85e85a7df096c6bec698785b4">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\socket.io-client-1.0.0-92e82eb0d8faa7698c892a33e18803f10f93cd73.jar" />
+    </item>
+    <item
+        jar="C:\Users\bachirhabib\.android\build-cache\a2ad2af5de3c4204648270e69a8512a5c709b57b\output\jars\classes.jar"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\classes-ce70e3e36d0785a41182fdf5ba4b3a25402d7eca.jar" />
+    </item>
+    <item
+        jar="C:\Users\bachirhabib\.android\build-cache\1465bc00e54a225921225d6c1431f1a9383b6725\output\jars\classes.jar"
+        revision="26.0.0"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\classes-1f33c6ee2109e61c554da1a67e77c8eae251468d.jar" />
+    </item>
+    <item
+        jar="C:\Users\bachirhabib\Desktop\BinTouch\app\libs\activation.jar"
+        revision="26.0.0"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\activation-bcc551d68859d8636b58d81808a847e11652bb11.jar" />
+    </item>
+    <item
+        jar="C:\Users\bachirhabib\.android\build-cache\38903e970e772850643594c0d54d8c655a27f0de\output\jars\classes.jar"
+        revision="26.0.0"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\classes-f279fd573ee33395d4e438f0d0ea09b0e91eca77.jar" />
+    </item>
+    <item
+        jar="C:\Users\bachirhabib\.android\build-cache\d46ac47771381447ab3c96b47f00610463c8d901\output\jars\classes.jar"
+        revision="26.0.0"
+        sha1="e7cca89b82118b140b5c012b0e0def2f35c81592">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\classes-a3cd0cd1db80555985207f265ead37e26bceb99a.jar" />
+    </item>
+    <item
+        jar="C:\Users\bachirhabib\.android\build-cache\27779814d08f3a3b479accb44bd1d7c54f69457c\output\jars\classes.jar"
+        revision="26.0.0"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\classes-1a06d854307b7cc5116715dcc46e44bd0a90fc15.jar" />
+    </item>
+    <item
+        jar="C:\Users\bachirhabib\.gradle\caches\modules-2\files-2.1\org.reactivestreams\reactive-streams\1.0.0\14b8c877d98005ba3941c9257cfe09f6ed0e0d74\reactive-streams-1.0.0.jar"
+        revision="26.0.0"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\reactive-streams-1.0.0-d42aeea7e792961fb4db3674b0c881abbeca1108.jar" />
+    </item>
+    <item
+        jar="C:\Users\bachirhabib\.android\build-cache\fb94d85fdb86d43e537be5d8d498f187ece2e74d\output\jars\classes.jar"
+        revision="26.0.0"
+        sha1="4e7ccc1d51d89540ea7ad426a1934204b674939b">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\classes-25818f079a44d8f566f1aac8e1c46af0ad3e950c.jar" />
+    </item>
+    <item
+        jar="C:\Users\bachirhabib\.android\build-cache\e3fa7599c3ad52b71967c35b2dcbb3c1711af554\output\jars\classes.jar"
+        revision="26.0.0"
+        sha1="ed6560f31a6a40b5965f5879d8f2eab1f68def05">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\classes-ac459ef1a9a70f530ffa2ed9248b932f3619db78.jar" />
+    </item>
+    <item
+        jar="C:\Users\bachirhabib\.android\build-cache\922026ee12ff63af8e346cded115a08e82df4e64\output\jars\classes.jar"
+        revision="26.0.0"
+        sha1="ac52d3af299cba4652278b805a8a2db633393631">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\classes-9ee57a017dea6a08ad1e62741f8cb3104f38d59b.jar" />
+    </item>
+    <item
+        jar="C:\Users\bachirhabib\.android\build-cache\1be6424dfa16816689b1ac845e4710c9530e3228\output\jars\classes.jar"
+        revision="26.0.0"
+        sha1="d7cc5473b9cf4ea159a263cd477fb3ecb2987b96">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\classes-ec597f94ef2c23ef794947e0c11bab8cb7529ffc.jar" />
+    </item>
+    <item
+        jar="C:\Users\bachirhabib\Desktop\BinTouch\app\libs\mail.jar"
+        revision="26.0.0"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\mail-c156044bf225c1cb3f10e0047205ab42fcd01e89.jar" />
+    </item>
+    <item
+        jar="C:\Users\bachirhabib\.android\build-cache\1aa1dda23b4005c1abe32f50bd64f3958f8af0a3\output\jars\classes.jar"
+        revision="26.0.0"
+        sha1="f229aae65e61058c88acb3ad14978b8997c77608">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\classes-aa093477416acdbb6054763f69838920aae17791.jar" />
+    </item>
+    <item
+        jar="C:\Users\bachirhabib\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        revision="26.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\picasso-2.5.2-7d258ec0d6e202ef0c0d7dc8ba338ae1b3d4e6b4.jar" />
+    </item>
+    <item
+        jar="C:\Users\bachirhabib\.android\build-cache\31140a952c3af90fee7c54f31261cb06fd39d4b6\output\jars\classes.jar"
+        revision="26.0.0"
+        sha1="ac2ce6027755bcf49442e70597bec0feb9064f68">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\classes-bd4c001cc1f44a14deb64261427adf98cb43331c.jar" />
+    </item>
+    <item
+        jar="C:\Users\bachirhabib\.android\build-cache\3de9a55e1bcd927440c79b95c551b153c483b8e3\output\jars\classes.jar"
+        revision="26.0.0"
+        sha1="3042a6fa1301374f44b76c8cd82b1f0247dc0eb9">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\classes-acd06b18045f95aead58009e941f071a29875d43.jar" />
+    </item>
+    <item
+        jar="C:\Users\bachirhabib\Desktop\BinTouch\app\libs\libjingle_peerconnection.jar"
+        revision="26.0.0"
+        sha1="187a888b7cfb6f9678d8cca0aeb56a94a031733a">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\libjingle_peerconnection-e9c91e9084a57f125ca9f77adcb6a2d0219d828f.jar" />
+    </item>
+    <item
+        jar="C:\Users\bachirhabib\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        revision="26.0.0"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="C:\Users\bachirhabib\Desktop\BinTouch\app\build\intermediates\transforms\preJackPackagedLibraries\release\jars\8000\1f\okhttp-2.5.0-71ccde33b0b3a9e646a9721a821c928a44aa1236.jar" />
+    </item>
+
+</items>

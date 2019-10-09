@@ -1,0 +1,4 @@
+#Thu Jun 20 16:31:09 EEST 2019
+base.0=/Users/user/Desktop/to print/BinTouch/app/build/intermediates/transforms/dexMerger/debug/7
+path.0=classes.dex
+renamed.0=classes.dex

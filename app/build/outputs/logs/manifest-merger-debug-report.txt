@@ -1,0 +1,741 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:2:1-193:12
+INJECTED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:2:1-193:12
+INJECTED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:2:1-193:12
+INJECTED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:2:1-193:12
+MERGED from [q.rorbin:badgeview:1.1.3] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\badgeview-1.1.3.aar\d516d88d289d6b6f10d6109ff9987894\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\38cca21ffe3ea34c003570469fdd9908\AndroidManifest.xml:17:1-22:12
+MERGED from [com.firebaseui:firebase-ui-database:1.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-1.1.1.aar\ec75d5947ad98618803faafa9178a344\AndroidManifest.xml:2:1-19:12
+MERGED from [pub.devrel:easypermissions:1.1.3] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\easypermissions-1.1.3.aar\bbcb6bbc99c45546a1bc26ce8f4b9d1e\AndroidManifest.xml:2:1-19:12
+MERGED from [ja.burhanrashid52:photoeditor:0.3.3] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\photoeditor-0.3.3.aar\d7911be5cbd402b5f8697fd3a2ad7475\AndroidManifest.xml:2:1-16:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\8712066bfd46066115bd75f3e4004da7\AndroidManifest.xml:17:1-22:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\c5f77aba973c9348d23ff0865586d8b2\AndroidManifest.xml:15:1-21:12
+MERGED from [id.zelory:compressor:2.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\compressor-2.0.0.aar\71e60e6fa47827bfb24734f187bc043f\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\61810fd1483dfe8bbdacbac43a416ff7\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-auth:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.0.4.aar\d222b412c8cd89be49c68807b50ccb00\AndroidManifest.xml:16:1-21:12
+MERGED from [com.commit451:PhotoView:1.2.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\PhotoView-1.2.4.aar\45e739b78f004499111ddbda8d364c24\AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.firebase:firebase-database:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-database-11.0.4.aar\7e594c9539dbabb12f4b7a2d92b25db0\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-storage:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-storage-11.0.4.aar\c5135097cf2e63db929fb02103912371\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.0.4.aar\461c849e04b133d43c48e84f393b1637\AndroidManifest.xml:16:1-30:12
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\ef137d823fe8ae3c522c2e7bde3cd146\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-database-connection:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.0.4.aar\19051d8a6515d12505b123f049d10ff1\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-core-11.0.4.aar\02c9214efbc7c7f39c9c822d8cbab619\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\fa7c2444e5cca67ce053f9383d0db7da\AndroidManifest.xml:16:1-35:12
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\4b52a9fbf44789675eb3d129dfe12ea1\AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32c1eade123e59697cbebe6321552678\AndroidManifest.xml:16:1-50:12
+MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\ba4391fa70d27c72dd1ba8d9c526346e\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\7294fd54b7ae82ff857712dde870e37d\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.firebase:firebase-storage-common:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-11.0.4.aar\62ac914c923b4dc8602be0c8be2685ff\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\35a7be2bfc61bf2a91ab200953c6040e\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v13:27.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\support-v13-27.1.1.aar\a8848ce1c35317f20861ae89057b3247\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\c7e8c1484f8bd990cfbf5234e245cef1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.amitshekhar.android:android-networking:1.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\android-networking-1.0.0.aar\b8a10400a6e44f584bf68197be971d49\AndroidManifest.xml:18:1-27:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\fceec1f6faaef9f5a63e21d21d222bda\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\f49ace0b1164af1dd5a2e002e8f99da0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\462f85a07239fee7b4a2bbbb6ea7f81a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\55ff19b0cd901fb8fe9af57911399cd7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\10411b099399c13c6a45a141af244356\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\62d6371d3c8d9bae252907124b4f7251\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\b312e9e654f66dd30d3fefb56f5be798\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\91801039d9b75aa54e247df3b2857756\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\690a4c23e85682ca12e09baa4ea94798\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\64d4db828f2abad0288bc856b527db83\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\df6434f40277cc2688208b2812ccc24a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7c3ce2d8acf7ab4ac273212fc3f0897d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e689a103f0f78647d88acaf0d4060ed8\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:2:1-193:12
+INJECTED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:2:1-193:12
+INJECTED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:2:1-193:12
+	package
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:2:1-193:12
+		INJECTED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:2:1-193:12
+		INJECTED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:5:5-60
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:5:19-57
+uses-feature#android.hardware.microphone
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:6:5-88
+	android:required
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:6:62-85
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:6:19-61
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:7:5-70
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:7:19-67
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:9:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:10:5-71
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:10:22-68
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:11:5-79
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\fa7c2444e5cca67ce053f9383d0db7da\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\fa7c2444e5cca67ce053f9383d0db7da\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\4b52a9fbf44789675eb3d129dfe12ea1\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\4b52a9fbf44789675eb3d129dfe12ea1\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32c1eade123e59697cbebe6321552678\AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32c1eade123e59697cbebe6321552678\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:12:22-77
+uses-permission#android.permission.READ_INTERNAL_STORAGE
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:13:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:15:5-67
+MERGED from [com.firebaseui:firebase-ui-database:1.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-1.1.1.aar\ec75d5947ad98618803faafa9178a344\AndroidManifest.xml:11:5-67
+MERGED from [com.firebaseui:firebase-ui-database:1.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-1.1.1.aar\ec75d5947ad98618803faafa9178a344\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\fa7c2444e5cca67ce053f9383d0db7da\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\fa7c2444e5cca67ce053f9383d0db7da\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\4b52a9fbf44789675eb3d129dfe12ea1\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\4b52a9fbf44789675eb3d129dfe12ea1\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32c1eade123e59697cbebe6321552678\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32c1eade123e59697cbebe6321552678\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:15:22-64
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:16:5-72
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:16:22-69
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:20:22-76
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:21:5-80
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:21:22-77
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:22:22-65
+uses-permission#android.permission.SET_ALARM
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:24:22-65
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\fa7c2444e5cca67ce053f9383d0db7da\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\fa7c2444e5cca67ce053f9383d0db7da\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\4b52a9fbf44789675eb3d129dfe12ea1\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\4b52a9fbf44789675eb3d129dfe12ea1\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32c1eade123e59697cbebe6321552678\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32c1eade123e59697cbebe6321552678\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:25:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:26:5-80
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:26:22-78
+uses-permission#android.permission.USE_SIP
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:29:5-66
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:29:22-63
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:32:1-62
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:32:18-59
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:33:1-72
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:33:18-69
+application
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:37:5-191:19
+MERGED from [q.rorbin:badgeview:1.1.3] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\badgeview-1.1.3.aar\d516d88d289d6b6f10d6109ff9987894\AndroidManifest.xml:11:5-20
+MERGED from [q.rorbin:badgeview:1.1.3] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\badgeview-1.1.3.aar\d516d88d289d6b6f10d6109ff9987894\AndroidManifest.xml:11:5-20
+MERGED from [com.firebaseui:firebase-ui-database:1.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-1.1.1.aar\ec75d5947ad98618803faafa9178a344\AndroidManifest.xml:13:5-17:19
+MERGED from [com.firebaseui:firebase-ui-database:1.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-1.1.1.aar\ec75d5947ad98618803faafa9178a344\AndroidManifest.xml:13:5-17:19
+MERGED from [pub.devrel:easypermissions:1.1.3] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\easypermissions-1.1.3.aar\bbcb6bbc99c45546a1bc26ce8f4b9d1e\AndroidManifest.xml:11:5-17:19
+MERGED from [pub.devrel:easypermissions:1.1.3] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\easypermissions-1.1.3.aar\bbcb6bbc99c45546a1bc26ce8f4b9d1e\AndroidManifest.xml:11:5-17:19
+MERGED from [ja.burhanrashid52:photoeditor:0.3.3] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\photoeditor-0.3.3.aar\d7911be5cbd402b5f8697fd3a2ad7475\AndroidManifest.xml:11:5-14:38
+MERGED from [ja.burhanrashid52:photoeditor:0.3.3] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\photoeditor-0.3.3.aar\d7911be5cbd402b5f8697fd3a2ad7475\AndroidManifest.xml:11:5-14:38
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\61810fd1483dfe8bbdacbac43a416ff7\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\61810fd1483dfe8bbdacbac43a416ff7\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.0.4.aar\d222b412c8cd89be49c68807b50ccb00\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.0.4.aar\d222b412c8cd89be49c68807b50ccb00\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.0.4.aar\461c849e04b133d43c48e84f393b1637\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.0.4.aar\461c849e04b133d43c48e84f393b1637\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\ef137d823fe8ae3c522c2e7bde3cd146\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\ef137d823fe8ae3c522c2e7bde3cd146\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-core-11.0.4.aar\02c9214efbc7c7f39c9c822d8cbab619\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-core-11.0.4.aar\02c9214efbc7c7f39c9c822d8cbab619\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\fa7c2444e5cca67ce053f9383d0db7da\AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\fa7c2444e5cca67ce053f9383d0db7da\AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\4b52a9fbf44789675eb3d129dfe12ea1\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\4b52a9fbf44789675eb3d129dfe12ea1\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32c1eade123e59697cbebe6321552678\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32c1eade123e59697cbebe6321552678\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\ba4391fa70d27c72dd1ba8d9c526346e\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\ba4391fa70d27c72dd1ba8d9c526346e\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\7294fd54b7ae82ff857712dde870e37d\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\7294fd54b7ae82ff857712dde870e37d\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\35a7be2bfc61bf2a91ab200953c6040e\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\35a7be2bfc61bf2a91ab200953c6040e\AndroidManifest.xml:19:5-21:19
+	android:supportsRtl
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:43:9-35
+	android:label
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:41:9-41
+	android:roundIcon
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:42:9-54
+	android:icon
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:40:9-43
+	android:allowBackup
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:39:9-35
+	android:theme
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:44:9-40
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:38:9-33
+activity#global.imas.bintouch.MainActivity
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:45:9-51:20
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:45:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:46:13-50:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:47:17-69
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:47:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:49:17-77
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:49:27-74
+service#global.imas.bintouch.MyFirebaseMessagingService
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:53:9-57:19
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:53:18-60
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:54:13-56:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:55:17-78
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:55:25-75
+service#global.imas.bintouch.MyFirebaseInstanceIDService
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:58:9-62:19
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:58:18-61
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:59:13-61:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:60:17-80
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:60:25-77
+activity#global.imas.bintouch.StartActivity
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:64:9-51
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:64:19-48
+activity#global.imas.bintouch.CallActivity
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:65:9-67:60
+	android:parentActivityName
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:67:13-57
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:66:13-41
+activity#global.imas.bintouch.WalkieTalkieActivity
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:68:9-70:15
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:69:13-49
+activity#global.imas.bintouch.SipSettings
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:71:9-73:15
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:72:13-40
+activity#global.imas.bintouch.AppRTCMainActivity
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:74:9-76:60
+	android:parentActivityName
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:76:13-57
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:75:13-47
+activity#global.imas.bintouch.RegisterActivity
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:77:9-79:59
+	android:parentActivityName
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:79:13-56
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:78:13-45
+activity#global.imas.bintouch.LoginActivity
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:80:9-82:59
+	android:parentActivityName
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:82:13-56
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:81:13-42
+activity#global.imas.bintouch.SettingsActivity
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:83:9-85:58
+	android:parentActivityName
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:85:13-55
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:84:13-45
+activity#global.imas.bintouch.StatusActivity
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:86:9-88:62
+	android:parentActivityName
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:88:13-59
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:87:13-43
+activity#global.imas.bintouch.UsersActivity
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:89:9-91:58
+	android:parentActivityName
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:91:13-55
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:90:13-42
+activity#global.imas.bintouch.ProfileActivity
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:92:9-94:59
+	android:parentActivityName
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:94:13-56
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:93:13-44
+activity#global.imas.bintouch.activity_chats
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:95:9-97:58
+	android:parentActivityName
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:97:13-55
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:96:13-43
+activity#global.imas.bintouch.calls
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:98:9-100:58
+	android:parentActivityName
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:100:13-55
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:99:13-34
+activity#global.imas.bintouch.contacts
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:101:9-103:58
+	android:parentActivityName
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:103:13-55
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:102:13-37
+activity#global.imas.bintouch.delayedmsg
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:104:9-106:58
+	android:parentActivityName
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:106:13-55
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:105:13-39
+activity#global.imas.bintouch.autoreply
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:107:9-109:58
+	android:parentActivityName
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:109:13-55
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:108:13-38
+activity#global.imas.bintouch.diver
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:110:9-112:58
+	android:parentActivityName
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:112:13-55
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:111:13-34
+activity#global.imas.bintouch.settings
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:113:9-115:58
+	android:parentActivityName
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:115:13-55
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:114:13-37
+activity#global.imas.bintouch.profiles
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:116:9-118:54
+	android:parentActivityName
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:118:13-51
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:117:13-37
+activity#global.imas.bintouch.profilePubicAndFriends
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:119:9-121:54
+	android:parentActivityName
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:121:13-51
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:120:13-51
+activity#global.imas.bintouch.profileSpecific
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:122:9-124:54
+	android:parentActivityName
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:124:13-51
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:123:13-44
+activity#global.imas.bintouch.delayedmsg_add
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:125:9-127:58
+	android:parentActivityName
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:127:13-55
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:126:13-43
+activity#global.imas.bintouch.autoreply_add
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:128:9-130:58
+	android:parentActivityName
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:130:13-55
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:129:13-42
+activity#global.imas.bintouch.chatsettings
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:131:9-133:60
+	android:parentActivityName
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:133:13-57
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:132:13-41
+activity#global.imas.bintouch.ProfileSeenByPublic
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:134:9-136:54
+	android:parentActivityName
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:136:13-51
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:135:13-48
+activity#global.imas.bintouch.ProfileSeenByFriends
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:137:9-139:54
+	android:parentActivityName
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:139:13-51
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:138:13-49
+activity#global.imas.bintouch.ProfileSeenBySpecifics
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:140:9-142:54
+	android:parentActivityName
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:142:13-51
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:141:13-51
+activity#global.imas.bintouch.ProfileSeenBySpecificsAdd
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:143:9-145:68
+	android:parentActivityName
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:145:13-65
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:144:13-54
+activity#global.imas.bintouch.ViewProfile
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:146:9-148:53
+	android:parentActivityName
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:148:13-50
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:147:13-40
+activity#global.imas.bintouch.publics
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:149:9-151:58
+	android:parentActivityName
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:151:13-55
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:150:13-36
+activity#global.imas.bintouch.chatList
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:152:9-154:58
+	android:parentActivityName
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:154:13-55
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:153:13-37
+activity#global.imas.bintouch.ViewProfileFriends
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:155:9-157:58
+	android:parentActivityName
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:157:13-55
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:156:13-47
+activity#global.imas.bintouch.Create_Account
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:158:9-160:55
+	android:parentActivityName
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:160:13-52
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:159:13-43
+activity#global.imas.bintouch.Add_person_to_group
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:161:9-57
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:161:19-54
+activity#global.imas.bintouch.secret
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:162:9-164:58
+	android:parentActivityName
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:164:13-55
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:163:13-35
+activity#global.imas.bintouch.ReceivedCall
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:165:9-167:58
+	android:parentActivityName
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:167:13-55
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:166:13-41
+activity#global.imas.bintouch.open_another_acount
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:168:9-170:58
+	android:parentActivityName
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:170:13-55
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:169:13-48
+activity#global.imas.bintouch.edit_account
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:171:9-173:58
+	android:parentActivityName
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:173:13-55
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:172:13-41
+activity#global.imas.bintouch.forward_msg
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:175:9-177:60
+	android:parentActivityName
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:177:13-57
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:176:13-40
+activity#global.imas.bintouch.AddBlockPerson
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:178:9-180:62
+	android:parentActivityName
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:180:13-59
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:179:13-43
+activity#global.imas.bintouch.ViewAndDeleteBlocked
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:181:9-183:62
+	android:parentActivityName
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:183:13-59
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:182:13-49
+activity#global.imas.bintouch.GroupList
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:184:9-186:58
+	android:parentActivityName
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:186:13-55
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:185:13-38
+activity#global.imas.bintouch.videocallwebview
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:187:9-188:70
+	android:parentActivityName
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:188:13-57
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:187:19-51
+receiver#global.imas.bintouch.Receiver
+ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:190:9-56
+	android:name
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml:190:20-44
+uses-sdk
+INJECTED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml
+MERGED from [q.rorbin:badgeview:1.1.3] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\badgeview-1.1.3.aar\d516d88d289d6b6f10d6109ff9987894\AndroidManifest.xml:7:5-9:41
+MERGED from [q.rorbin:badgeview:1.1.3] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\badgeview-1.1.3.aar\d516d88d289d6b6f10d6109ff9987894\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\38cca21ffe3ea34c003570469fdd9908\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\38cca21ffe3ea34c003570469fdd9908\AndroidManifest.xml:20:5-44
+MERGED from [com.firebaseui:firebase-ui-database:1.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-1.1.1.aar\ec75d5947ad98618803faafa9178a344\AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-database:1.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-1.1.1.aar\ec75d5947ad98618803faafa9178a344\AndroidManifest.xml:7:5-9:41
+MERGED from [pub.devrel:easypermissions:1.1.3] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\easypermissions-1.1.3.aar\bbcb6bbc99c45546a1bc26ce8f4b9d1e\AndroidManifest.xml:7:5-9:41
+MERGED from [pub.devrel:easypermissions:1.1.3] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\easypermissions-1.1.3.aar\bbcb6bbc99c45546a1bc26ce8f4b9d1e\AndroidManifest.xml:7:5-9:41
+MERGED from [ja.burhanrashid52:photoeditor:0.3.3] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\photoeditor-0.3.3.aar\d7911be5cbd402b5f8697fd3a2ad7475\AndroidManifest.xml:7:5-9:41
+MERGED from [ja.burhanrashid52:photoeditor:0.3.3] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\photoeditor-0.3.3.aar\d7911be5cbd402b5f8697fd3a2ad7475\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\8712066bfd46066115bd75f3e4004da7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\8712066bfd46066115bd75f3e4004da7\AndroidManifest.xml:20:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\c5f77aba973c9348d23ff0865586d8b2\AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\rxandroid-2.0.1.aar\c5f77aba973c9348d23ff0865586d8b2\AndroidManifest.xml:19:5-43
+MERGED from [id.zelory:compressor:2.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\compressor-2.0.0.aar\71e60e6fa47827bfb24734f187bc043f\AndroidManifest.xml:8:5-10:41
+MERGED from [id.zelory:compressor:2.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\compressor-2.0.0.aar\71e60e6fa47827bfb24734f187bc043f\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\61810fd1483dfe8bbdacbac43a416ff7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\61810fd1483dfe8bbdacbac43a416ff7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.0.4.aar\d222b412c8cd89be49c68807b50ccb00\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-auth:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.0.4.aar\d222b412c8cd89be49c68807b50ccb00\AndroidManifest.xml:17:5-43
+MERGED from [com.commit451:PhotoView:1.2.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\PhotoView-1.2.4.aar\45e739b78f004499111ddbda8d364c24\AndroidManifest.xml:8:5-10:41
+MERGED from [com.commit451:PhotoView:1.2.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\PhotoView-1.2.4.aar\45e739b78f004499111ddbda8d364c24\AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.firebase:firebase-database:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-database-11.0.4.aar\7e594c9539dbabb12f4b7a2d92b25db0\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-database-11.0.4.aar\7e594c9539dbabb12f4b7a2d92b25db0\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-storage-11.0.4.aar\c5135097cf2e63db929fb02103912371\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-storage-11.0.4.aar\c5135097cf2e63db929fb02103912371\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.0.4.aar\461c849e04b133d43c48e84f393b1637\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.0.4.aar\461c849e04b133d43c48e84f393b1637\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\ef137d823fe8ae3c522c2e7bde3cd146\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\ef137d823fe8ae3c522c2e7bde3cd146\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.0.4.aar\19051d8a6515d12505b123f049d10ff1\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.0.4.aar\19051d8a6515d12505b123f049d10ff1\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-core-11.0.4.aar\02c9214efbc7c7f39c9c822d8cbab619\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-core-11.0.4.aar\02c9214efbc7c7f39c9c822d8cbab619\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\fa7c2444e5cca67ce053f9383d0db7da\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\fa7c2444e5cca67ce053f9383d0db7da\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\4b52a9fbf44789675eb3d129dfe12ea1\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\4b52a9fbf44789675eb3d129dfe12ea1\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32c1eade123e59697cbebe6321552678\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32c1eade123e59697cbebe6321552678\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\ba4391fa70d27c72dd1ba8d9c526346e\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\ba4391fa70d27c72dd1ba8d9c526346e\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\7294fd54b7ae82ff857712dde870e37d\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\7294fd54b7ae82ff857712dde870e37d\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-11.0.4.aar\62ac914c923b4dc8602be0c8be2685ff\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-11.0.4.aar\62ac914c923b4dc8602be0c8be2685ff\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\35a7be2bfc61bf2a91ab200953c6040e\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\35a7be2bfc61bf2a91ab200953c6040e\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v13:27.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\support-v13-27.1.1.aar\a8848ce1c35317f20861ae89057b3247\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\support-v13-27.1.1.aar\a8848ce1c35317f20861ae89057b3247\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\c7e8c1484f8bd990cfbf5234e245cef1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\c7e8c1484f8bd990cfbf5234e245cef1\AndroidManifest.xml:20:5-44
+MERGED from [com.amitshekhar.android:android-networking:1.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\android-networking-1.0.0.aar\b8a10400a6e44f584bf68197be971d49\AndroidManifest.xml:23:5-25:41
+MERGED from [com.amitshekhar.android:android-networking:1.0.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\android-networking-1.0.0.aar\b8a10400a6e44f584bf68197be971d49\AndroidManifest.xml:23:5-25:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\fceec1f6faaef9f5a63e21d21d222bda\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\fceec1f6faaef9f5a63e21d21d222bda\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\f49ace0b1164af1dd5a2e002e8f99da0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\f49ace0b1164af1dd5a2e002e8f99da0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\462f85a07239fee7b4a2bbbb6ea7f81a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\462f85a07239fee7b4a2bbbb6ea7f81a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\55ff19b0cd901fb8fe9af57911399cd7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\55ff19b0cd901fb8fe9af57911399cd7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\10411b099399c13c6a45a141af244356\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\10411b099399c13c6a45a141af244356\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\62d6371d3c8d9bae252907124b4f7251\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\62d6371d3c8d9bae252907124b4f7251\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\b312e9e654f66dd30d3fefb56f5be798\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\b312e9e654f66dd30d3fefb56f5be798\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\91801039d9b75aa54e247df3b2857756\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\91801039d9b75aa54e247df3b2857756\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\690a4c23e85682ca12e09baa4ea94798\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\690a4c23e85682ca12e09baa4ea94798\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\64d4db828f2abad0288bc856b527db83\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\64d4db828f2abad0288bc856b527db83\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\df6434f40277cc2688208b2812ccc24a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\df6434f40277cc2688208b2812ccc24a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7c3ce2d8acf7ab4ac273212fc3f0897d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7c3ce2d8acf7ab4ac273212fc3f0897d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e689a103f0f78647d88acaf0d4060ed8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e689a103f0f78647d88acaf0d4060ed8\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hassan\AndroidStudioProjects\SafeChatRefactor\BinTouch\app\src\main\AndroidManifest.xml
+meta-data#com.google.android.gms.version
+ADDED from [com.firebaseui:firebase-ui-database:1.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-1.1.1.aar\ec75d5947ad98618803faafa9178a344\AndroidManifest.xml:14:9-16:69
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\35a7be2bfc61bf2a91ab200953c6040e\AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\35a7be2bfc61bf2a91ab200953c6040e\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-database:1.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-1.1.1.aar\ec75d5947ad98618803faafa9178a344\AndroidManifest.xml:16:13-66
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-database:1.1.1] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-1.1.1.aar\ec75d5947ad98618803faafa9178a344\AndroidManifest.xml:15:13-58
+activity#pub.devrel.easypermissions.AppSettingsDialogHolderActivity
+ADDED from [pub.devrel:easypermissions:1.1.3] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\easypermissions-1.1.3.aar\bbcb6bbc99c45546a1bc26ce8f4b9d1e\AndroidManifest.xml:12:9-16:66
+	android:label
+		ADDED from [pub.devrel:easypermissions:1.1.3] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\easypermissions-1.1.3.aar\bbcb6bbc99c45546a1bc26ce8f4b9d1e\AndroidManifest.xml:15:13-29
+	android:exported
+		ADDED from [pub.devrel:easypermissions:1.1.3] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\easypermissions-1.1.3.aar\bbcb6bbc99c45546a1bc26ce8f4b9d1e\AndroidManifest.xml:14:13-37
+	android:theme
+		ADDED from [pub.devrel:easypermissions:1.1.3] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\easypermissions-1.1.3.aar\bbcb6bbc99c45546a1bc26ce8f4b9d1e\AndroidManifest.xml:16:13-63
+	android:name
+		ADDED from [pub.devrel:easypermissions:1.1.3] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\easypermissions-1.1.3.aar\bbcb6bbc99c45546a1bc26ce8f4b9d1e\AndroidManifest.xml:13:13-86
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.0.4.aar\461c849e04b133d43c48e84f393b1637\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.0.4.aar\461c849e04b133d43c48e84f393b1637\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.0.4.aar\461c849e04b133d43c48e84f393b1637\AndroidManifest.xml:23:18-87
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\ef137d823fe8ae3c522c2e7bde3cd146\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\ef137d823fe8ae3c522c2e7bde3cd146\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\ef137d823fe8ae3c522c2e7bde3cd146\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\ef137d823fe8ae3c522c2e7bde3cd146\AndroidManifest.xml:19:19-85
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\fa7c2444e5cca67ce053f9383d0db7da\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\4b52a9fbf44789675eb3d129dfe12ea1\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\4b52a9fbf44789675eb3d129dfe12ea1\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\fa7c2444e5cca67ce053f9383d0db7da\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\fa7c2444e5cca67ce053f9383d0db7da\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\fa7c2444e5cca67ce053f9383d0db7da\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\fa7c2444e5cca67ce053f9383d0db7da\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\fa7c2444e5cca67ce053f9383d0db7da\AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\fa7c2444e5cca67ce053f9383d0db7da\AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\fa7c2444e5cca67ce053f9383d0db7da\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\fa7c2444e5cca67ce053f9383d0db7da\AndroidManifest.xml:27:17-104
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\fa7c2444e5cca67ce053f9383d0db7da\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\fa7c2444e5cca67ce053f9383d0db7da\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\fa7c2444e5cca67ce053f9383d0db7da\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\fa7c2444e5cca67ce053f9383d0db7da\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\4b52a9fbf44789675eb3d129dfe12ea1\AndroidManifest.xml:27:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\4b52a9fbf44789675eb3d129dfe12ea1\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\fa7c2444e5cca67ce053f9383d0db7da\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\fa7c2444e5cca67ce053f9383d0db7da\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\fa7c2444e5cca67ce053f9383d0db7da\AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\fa7c2444e5cca67ce053f9383d0db7da\AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\fa7c2444e5cca67ce053f9383d0db7da\AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\fa7c2444e5cca67ce053f9383d0db7da\AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\fa7c2444e5cca67ce053f9383d0db7da\AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\fa7c2444e5cca67ce053f9383d0db7da\AndroidManifest.xml:33:16-90
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32c1eade123e59697cbebe6321552678\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32c1eade123e59697cbebe6321552678\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32c1eade123e59697cbebe6321552678\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32c1eade123e59697cbebe6321552678\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32c1eade123e59697cbebe6321552678\AndroidManifest.xml:24:17-71
+permission#global.imas.bintouch.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32c1eade123e59697cbebe6321552678\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32c1eade123e59697cbebe6321552678\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32c1eade123e59697cbebe6321552678\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32c1eade123e59697cbebe6321552678\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32c1eade123e59697cbebe6321552678\AndroidManifest.xml:26:22-76
+uses-permission#global.imas.bintouch.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32c1eade123e59697cbebe6321552678\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32c1eade123e59697cbebe6321552678\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32c1eade123e59697cbebe6321552678\AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32c1eade123e59697cbebe6321552678\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32c1eade123e59697cbebe6321552678\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32c1eade123e59697cbebe6321552678\AndroidManifest.xml:30:19-84
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32c1eade123e59697cbebe6321552678\AndroidManifest.xml:31:13-34:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:global.imas.bintouch
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32c1eade123e59697cbebe6321552678\AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32c1eade123e59697cbebe6321552678\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32c1eade123e59697cbebe6321552678\AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32c1eade123e59697cbebe6321552678\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32c1eade123e59697cbebe6321552678\AndroidManifest.xml:33:27-58
+category#global.imas.bintouch
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32c1eade123e59697cbebe6321552678\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32c1eade123e59697cbebe6321552678\AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32c1eade123e59697cbebe6321552678\AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32c1eade123e59697cbebe6321552678\AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32c1eade123e59697cbebe6321552678\AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32c1eade123e59697cbebe6321552678\AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32c1eade123e59697cbebe6321552678\AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\32c1eade123e59697cbebe6321552678\AndroidManifest.xml:43:18-82
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\ba4391fa70d27c72dd1ba8d9c526346e\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\ba4391fa70d27c72dd1ba8d9c526346e\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\ba4391fa70d27c72dd1ba8d9c526346e\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\ba4391fa70d27c72dd1ba8d9c526346e\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Hassan\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\ba4391fa70d27c72dd1ba8d9c526346e\AndroidManifest.xml:6:79-143

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">167391667216-e9rum22m3ha4bgkhhb0p83tq1menn21h.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://bintouch-c21fe.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">167391667216</string>
+    <string name="google_api_key" translatable="false">AIzaSyDNw9K1_VaoZnCs6vn8ttnU39boBG8GsXM</string>
+    <string name="google_app_id" translatable="false">1:167391667216:android:a06350f6ea4924f7</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDNw9K1_VaoZnCs6vn8ttnU39boBG8GsXM</string>
+    <string name="google_storage_bucket" translatable="false">bintouch-c21fe.appspot.com</string>
+    <string name="project_id" translatable="false">bintouch-c21fe</string>
+</resources>

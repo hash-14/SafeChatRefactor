@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_add"
+            android:icon="@drawable/ic_control_point_black_24dp"
+            android:title="Add an account"></item>
+    </group>
+    <item android:title="Accounts">
+        <menu>
+
+            <item
+                android:id="@+id/nav_acc1"
+                android:icon="@drawable/eempty"
+                android:title="Account 1"
+                app:actionLayout="@layout/menu_counter"
+            />
+            <item
+                android:id="@+id/nav_acc5"
+                android:icon="@drawable/eempty"
+                android:title="Account 5"
+                app:actionLayout="@layout/menu_counter"/>
+            <item
+                android:id="@+id/nav_acc3"
+                android:icon="@drawable/eempty"
+                android:title="Account 3"
+                app:actionLayout="@layout/menu_counter"/>
+            <item
+                android:id="@+id/nav_acc2"
+                android:icon="@drawable/eempty"
+                android:title="Account 2"
+                app:actionLayout="@layout/menu_counter"/>
+            <item
+                android:id="@+id/nav_acc4"
+                android:icon="@drawable/eempty"
+                android:title="Account 4"
+                app:actionLayout="@layout/menu_counter"/>
+        </menu>
+    </item>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_signout"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Sign out" />
+        </menu>
+    </item>
+
+</menu>
